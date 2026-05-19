@@ -1,6 +1,5 @@
-/* javascript
-    [Meredith] - [May 16, 2026]
-*/   
+    // Meredith Morrow - 05/18/2026
+   // This application prints "Hello, World!" and the numbers 0 to 9.
 
 console.log("Hello world!");
 
