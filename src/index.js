@@ -1,8 +1,14 @@
+<<<<<<< HEAD
     // Meredith Morrow - 05/18/2026
    // This application prints "Hello, World!" and the numbers 0 to 9.
+=======
+javascript
+//Meredith Morrow 05/18/2026
+>>>>>>> feature-square
 
 console.log("Hello world!");
 
 for (let i = 0; i < 10; i++) {
     console.log(i);
+   console.log(i * i);
 }
